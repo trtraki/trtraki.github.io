@@ -1,0 +1,12 @@
+{
+  "name": "LOVEGREEN",
+  "short_name": "LOVEGREEN",
+  "start_url": "/",
+  "icons": [
+     {
+       "src": "launcher-icon-1x.png",
+       "type": "image/png",
+       "sizes": "144x144"
+     }
+  ]
+}
