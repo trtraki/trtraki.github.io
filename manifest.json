@@ -4,7 +4,7 @@
   "start_url": "/",
   "icons": [
      {
-       "src": "android-icon-144x144.png",
+       "src": "android-icon.png",
        "type": "image/png",
        "sizes": "144x144"
      }
